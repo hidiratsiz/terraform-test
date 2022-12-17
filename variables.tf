@@ -1,5 +1,5 @@
 variable "rg_name" {
-    default = "sinif17"
+    default = "test"
     type = string 
 }
 variable "location" {
